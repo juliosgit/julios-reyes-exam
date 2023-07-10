@@ -1,0 +1,73 @@
+
+div.ChaInfo {
+   
+  background-color: rgb(180, 219, 247);
+  
+}
+div.navigation {
+  clear: both;
+  height: 50px;
+  background-color:rgb(245, 212, 200);
+
+}
+input{
+  margin: 20px;
+}
+div.videoFeed{
+  background-color: antiquewhite;
+  width: 320px;
+  float: left;
+  margin: 10px;
+
+}
+div.container{
+  background-color: aqua;
+}
+
+
+
+body.page{
+  background-color: black;
+}
+div.chainfo{
+  
+  
+  border-top: black solid;
+  
+}
+div.image{
+  border: 1px blue;
+  background-color: bisque;
+  margin-top: 30px;
+  float: left;
+
+}
+img.propic{
+  width: 100px;
+  margin: 5px;
+  float: left;
+  
+}
+h2.chanfo{
+  color: white;
+  font-size: 50px;
+  margin-top: 50px;
+  float: left;
+
+  
+  
+}
+p{
+  color: white;
+  font-size: 30px;
+  margin: 10px;
+  float: left;
+  clear: left;
+  
+}
+div.vids{
+  background-color: antiquewhite;
+  width: 320px;
+  float: left;
+  margin: 10px;
+}
